@@ -1,0 +1,5 @@
+plt.bar(df['Index'], df['Height(Inches)'])
+plt.title('Bar Plot of Heights')
+plt.xlabel('Index')
+plt.ylabel('Height (Inches)')
+plt.show()
