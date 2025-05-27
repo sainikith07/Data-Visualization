@@ -1,0 +1,5 @@
+plt.scatter(df['Index'], df['Height(Inches)'])
+plt.title('Height Scatter Plot')
+plt.xlabel('Index')
+plt.ylabel('Height (Inches)')
+plt.show()
